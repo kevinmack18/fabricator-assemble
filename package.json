@@ -16,11 +16,6 @@
   "author": {
     "name": "Luke Askews"
   },
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fbrctr/fabricator-assemble.git"
-  },
   "dependencies": {
     "chalk": "^1.0.0",
     "globby": "^2.1.0",
@@ -39,35 +34,5 @@
     "helper-markdown": "^0.1.1",
     "html-minifier": "^0.7.2",
     "mocha": "^2.1.0"
-  },
-  "gitHead": "4c1eb8d4cbf8b12558fc8660a9f320bd7c7fb878",
-  "bugs": {
-    "url": "https://github.com/fbrctr/fabricator-assemble/issues"
-  },
-  "homepage": "https://github.com/fbrctr/fabricator-assemble#readme",
-  "_id": "fabricator-assemble@1.1.11",
-  "_shasum": "3ac41c36a0607c52e870b0d7406fc5c2a01f7c48",
-  "_from": "fabricator-assemble@>=1.1.10 <2.0.0",
-  "_npmVersion": "3.6.0",
-  "_nodeVersion": "5.6.0",
-  "_npmUser": {
-    "name": "lukeaskew",
-    "email": "lukeaskew@gmail.com"
-  },
-  "dist": {
-    "shasum": "3ac41c36a0607c52e870b0d7406fc5c2a01f7c48",
-    "tarball": "https://registry.npmjs.org/fabricator-assemble/-/fabricator-assemble-1.1.11.tgz"
-  },
-  "maintainers": [
-    {
-      "name": "lukeaskew",
-      "email": "lukeaskew@gmail.com"
-    }
-  ],
-  "_npmOperationalInternal": {
-    "host": "packages-12-west.internal.npmjs.com",
-    "tmp": "tmp/fabricator-assemble-1.1.11.tgz_1457638825056_0.3152525604236871"
-  },
-  "directories": {},
-  "_resolved": "https://registry.npmjs.org/fabricator-assemble/-/fabricator-assemble-1.1.11.tgz"
+  }
 }
